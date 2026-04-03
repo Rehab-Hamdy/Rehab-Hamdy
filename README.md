@@ -6,7 +6,7 @@
 
 ###
 
-  <a href="www.linkedin.com/in/rehab-hamdy-83568424b"> 
+  <a href="www.linkedin.com//in//rehab-hamdy-83568424b"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   <a href="mailto:rehabhamdy15@gmail.com"> 
@@ -31,18 +31,17 @@ I am a Machine Learning Engineer focused on designing and building intelligent s
 </p>
 
 ###
-
-<h3 align="">Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <br>
 
 <h4 align="center">AI & Machine Learning</h4>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HuggingFace-FDEE21?style=flat&logo=HuggingFace&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
 <p align="center">
@@ -56,10 +55,10 @@ Retrieval-Augmented Generation • Prompt Engineering
 <h4 align="center">Frameworks & Tools</h4>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/FastAPI-109989?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ngrok-140648?style=flat&logo=ngrok&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ngrok-140648?style=for-the-badge&logo=ngrok&logoColor=white" />
 </div>
 
 <p align="center">
@@ -71,10 +70,10 @@ API Development • Model Deployment • Workflow Automation
 <h4 align="center">Databases</h4>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-018bff?style=flat&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" />
 </div>
 
 <br>
@@ -82,9 +81,9 @@ API Development • Model Deployment • Workflow Automation
 <h4 align="center">Programming & Data</h4>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/NumPy-777BB4?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
 <p align="center">
@@ -98,5 +97,6 @@ Data Preprocessing • Feature Engineering • Data Analysis • Data Cleaning �
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Rehab-Hamdy&theme=dark&hide_border=false" height="220" />
 </div>
+
 
 ###
