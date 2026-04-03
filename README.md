@@ -30,10 +30,11 @@
 I am a Machine Learning Engineer focused on designing and building intelligent systems using data-driven approaches. My work spans machine learning, deep learning, computer vision, and natural language processing, with strong experience in developing end-to-end AI solutions from data processing to model deployment. I have hands-on experience with large language models and Retrieval-Augmented Generation systems, as well as building scalable AI applications using modern tools such as FastAPI and Docker. I am particularly interested in creating efficient, real-world AI systems that are robust, scalable, and impactful.
 </p>
 
-###
-<h3 align="center">Tech Stack</h3>
+<hr>
 
-<br>
+
+###
+<h3 align="left">Tech Stack</h3>
 
 <h4 align="center">AI & Machine Learning</h4>
 
@@ -50,7 +51,6 @@ Natural Language Processing • Large Language Models<br>
 Retrieval-Augmented Generation • Prompt Engineering
 </p>
 
-<br>
 
 <h4 align="center">Frameworks & Tools</h4>
 
@@ -65,7 +65,6 @@ Retrieval-Augmented Generation • Prompt Engineering
 API Development • Model Deployment • Workflow Automation
 </p>
 
-<br>
 
 <h4 align="center">Databases</h4>
 
@@ -76,7 +75,6 @@ API Development • Model Deployment • Workflow Automation
   <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" />
 </div>
 
-<br>
 
 <h4 align="center">Programming & Data</h4>
 
@@ -89,6 +87,8 @@ API Development • Model Deployment • Workflow Automation
 <p align="center">
 Data Preprocessing • Feature Engineering • Data Analysis • Data Cleaning • Visualization
 </p>
+
+<hr>
 
 <h3 align="left">My Stats</h3>
 
