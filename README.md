@@ -6,7 +6,7 @@
 
 ###
 
-  <a href="www.linkedin.com//in//rehab-hamdy-83568424b"> 
+  <a href="https://www.linkedin.com/in/rehab-hamdy-83568424b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   <a href="mailto:rehabhamdy15@gmail.com"> 
