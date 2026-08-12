@@ -154,13 +154,7 @@ Delivered Machine Learning and Deep Learning sessions and organized hands-on wor
 
 <h3 align="left">My GitHub Stats</h3>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rehab-Hamdy&show_icons=true&theme=dark&hide_border=false" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehab-Hamdy&layout=compact&theme=dark&hide_border=false" height="180"/>
-
-</div>
 
 <br>
 
