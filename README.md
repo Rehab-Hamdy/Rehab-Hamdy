@@ -1,44 +1,36 @@
 <div align="center">
 
-<div align="center">
   <img src="https://github.com/Rehab-Hamdy/Rehab-Hamdy/blob/main/Rehab-Hamdy.png" alt="banner" width="800"/>
-</div>
 
-###
+  <br><br>
 
   <a href="https://www.linkedin.com/in/rehab-hamdy-83568424b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
-  <a href="mailto:rehabhamdy15@gmail.com"> 
+  <a href="mailto:rehabhamdy15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
+
+  <br><br>
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rehab-Hamdy" />
+
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rehab-Hamdy"  />
-</div>
-
-###
+---
 
 <h3 align="left">About Me</h3>
 
 <p align="left">
-I am an <b>AI Engineer</b> and Artificial Intelligence graduate focused on building
-end-to-end AI systems using Machine Learning, Deep Learning, Generative AI,
-LLMs, and Retrieval-Augmented Generation (RAG).
+I am an <b>AI Engineer</b> and Artificial Intelligence graduate focused on building intelligent AI applications using Machine Learning, Deep Learning, Generative AI, LLMs, and Agentic AI systems.
 <br><br>
-I have hands-on experience building intelligent applications involving
-<b>Hybrid RAG, knowledge graphs, LLM fine-tuning with LoRA/PEFT, model evaluation, and
-AI-powered automation</b> using technologies such as
-FastAPI, PostgreSQL, and Docker.
+My experience includes <b>Hybrid RAG, knowledge graphs, LLM fine-tuning with LoRA/PEFT, AI agents, and AI-powered automation</b>. I am expanding my expertise in agentic systems and workflows using LangChain, LangGraph, Deep Agents, LangSmith, and the Model Context Protocol (MCP).
 <br><br>
-I enjoy turning real-world problems into practical, scalable AI solutions
-that combine strong AI models with reliable software engineering.
+I enjoy turning real-world problems into practical AI solutions by combining LLMs, retrieval systems, agent orchestration, and reliable software engineering.
 </p>
 
 ---
+
 <h3 align="left">Tech Stack</h3>
 
 <h4 align="center">AI & Machine Learning</h4>
@@ -49,7 +41,7 @@ that combine strong AI models with reliable software engineering.
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 </div>
@@ -73,7 +65,23 @@ Machine Learning • Deep Learning • Computer Vision • NLP • Transfer Lear
 </div>
 
 <p align="center">
-Generative AI • LLMs • RAG • Fine-Tuning • Prompt Engineering
+LLMs • Retrieval-Augmented Generation (RAG) • Hybrid Retrieval • Fine-Tuning • LoRA/PEFT • Prompt Engineering
+</p>
+
+<h4 align="center">Agentic AI & Frameworks</h4>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Agents-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-6A5ACD?style=for-the-badge"/>
+
+</div>
+
+<p align="center">
+Agentic AI Systems • Tool Calling • Multi-Agent Systems • Agent Orchestration • MCP • Tracing & Evaluation
 </p>
 
 <h4 align="center">AI Engineering & Development</h4>
@@ -125,7 +133,7 @@ Data Preprocessing • Feature Engineering • Data Analysis • Model Evaluatio
 <p align="left">
 
 🏆 <b>7th Place</b> — MTC–AIC-3 BCI Competition<br>
-    7th out of 215 teams — Military Technical College
+&nbsp;&nbsp;&nbsp;7th out of 215 teams — Military Technical College
 <br><br>
 🏅 <b>Top 40 Student & Top 5 Project</b> — Digital Egypt Pioneers Initiative
 <br><br>
@@ -139,14 +147,11 @@ Data Preprocessing • Feature Engineering • Data Analysis • Model Evaluatio
 
 <p align="left">
 
-<b>Deep Learning Instructor — NetPoint</b><br>
-Teaching practical Deep Learning concepts and applications, covering neural networks,
-model training and optimization, transfer learning, sequence models, NLP,
-attention mechanisms, Transformers, and end-to-end Deep Learning projects.
+<b>Machine Learning Instructor — NetPoint</b><br>
+Teaching practical Machine Learning and Deep Learning concepts, including neural networks, model training and optimization, transfer learning, sequence models, NLP, attention mechanisms, and Transformers.
 <br><br>
 <b>Machine Learning Instructor — Pixels Student Activity</b><br>
 Delivered Machine Learning and Deep Learning sessions and organized hands-on workshops to help students build practical AI and Machine Learning skills.
-
 
 </p>
 
@@ -154,15 +159,8 @@ Delivered Machine Learning and Deep Learning sessions and organized hands-on wor
 
 <h3 align="left">My GitHub Stats</h3>
 
-
-
-<br>
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Rehab-Hamdy&theme=dark&hide_border=false" height="220"/>
 
 </div>
-
-
-###
