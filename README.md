@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/Rehab-Hamdy/Rehab-Hamdy/blob/main/Rehab-Hamdy.png" alt="banner" width="800"/>
+  <img src="https://github.com/Rehab-Hamdy/Rehab-Hamdy/blob/main/Rehab_Hamdy.png" alt="banner" width="800"/>
 
   <br><br>
 
